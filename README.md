@@ -31,7 +31,33 @@ To set up the Food Management System on your local machine, follow these steps:
    ```
 
 ## Usage
-Instructions on how to use the system will be provided here. Include examples of commands or workflows if applicable.
+Main Menu
+Upon running the application, a main menu will appear with options such as:
+
+Manage Inventory
+Manage Orders
+Generate Reports
+Exit
+Managing Inventory
+
+Select the option for inventory management.
+You can add, remove, or update food items.
+View current inventory levels.
+Managing Orders
+
+Choose the order management option.
+You can create new orders, update existing ones, or cancel orders.
+Track delivery status.
+Generating Reports
+
+Select the report generation option.
+Generate reports on food consumption, inventory levels, and order history.
+Exiting the Application
+
+To exit, choose the exit option from the main menu.
+Additional Notes
+Ensure you have a compatible C++ compiler installed.
+Follow any additional setup instructions mentioned in the repository's README file or documentation.
 
 ## Contributing
 We welcome contributions to improve the Food Management System. Please follow these steps:
