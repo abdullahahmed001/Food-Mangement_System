@@ -30,36 +30,34 @@ To set up the Food Management System on your local machine, follow these steps:
    make
    ```
 
-## Usage
-Main Menu
- - Upon running the application, a main menu will appear with options such as:
+## Using the Application
+1. Main Menu: Upon launching, you will see the main menu with options such as:
+- **Manage Inventory**
+- **Manage Orders**
+- **Generate Reports**
+-**Exit**
+2. Managing Inventory:
 
-1. Manage Inventory
-2. Manage Orders
-3. Generate Reports
-4. Exit
-   
-Managing Inventory
+- **Select the option to manage inventory**
+- **You can add, update, or remove food items**
+- **View current stock levels**
+3. Managing Orders:
 
-Select the option for inventory management.
-You can add, remove, or update food items.
-View current inventory levels.
-Managing Orders
+- **Select the option to manage orders**
+- **Create new orders or update existing ones**
+- **Track the status of orders**
+4. Generating Reports:
+- **Choose the report generation option**
+- **Select the type of report you wish to generate (e.g., consumption reports, stock levels)**
+- **View or save the generated reports**
+5. Exiting the Application:
 
-Choose the order management option.
-You can create new orders, update existing ones, or cancel orders.
-Track delivery status.
-Generating Reports
-
-Select the report generation option.
-Generate reports on food consumption, inventory levels, and order history.
-Exiting the Application
-
-To exit, choose the exit option from the main menu.
-Additional Notes
-Ensure you have a compatible C++ compiler installed.
-Follow any additional setup instructions mentioned in the repository's README file or documentation.
-
+- **Select the exit option to close the application**
+## Troubleshooting
+**If you encounter any issues during compilation or execution, ensure that all dependencies are correctly installed and that you are using a compatible version of the C++ compiler**
+## Additional Notes
+**Refer to the documentation in the repository for more detailed information on specific features and functionalities.
+For any bugs or feature requests, consider opening an issue on the GitHub repository.**
 ## Contributing
 We welcome contributions to improve the Food Management System. Please follow these steps:
 
