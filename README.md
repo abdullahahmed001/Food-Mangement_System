@@ -32,12 +32,13 @@ To set up the Food Management System on your local machine, follow these steps:
 
 ## Usage
 Main Menu
-Upon running the application, a main menu will appear with options such as:
+ - Upon running the application, a main menu will appear with options such as:
 
-Manage Inventory
-Manage Orders
-Generate Reports
-Exit
+1. Manage Inventory
+2. Manage Orders
+3. Generate Reports
+4. Exit
+   
 Managing Inventory
 
 Select the option for inventory management.
