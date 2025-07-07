@@ -1,7 +1,7 @@
 # Food Management System
 
 ## Overview
-The Food Management System is a prototype designed to help manage food-related tasks, including inventory tracking, order management, and report generation. This system aims to streamline food management processes for businesses and individuals.
+FoodSync is a food management system designed to help manage food-related tasks, including inventory tracking, order management, and report generation. This system aims to streamline food management processes for businesses and individuals.
 
 ## Features
 - **Inventory Management**: Track and manage food inventory effectively.
