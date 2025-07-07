@@ -1,4 +1,4 @@
-# Food Management System
+# FoodSync
 
 ## Overview
 FoodSync is a food management system designed to help manage food-related tasks, including inventory tracking, order management, and report generation. This system aims to streamline food management processes for businesses and individuals.
